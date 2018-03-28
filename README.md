@@ -1,9 +1,8 @@
 # Machine Learning
 
-## 学习模型
-* linear regression
-* logistic regression
-* neural network
+## Machine learning tasks
+* Supervised learning
+* Unsupervised learning
 
 ## Activation function
 * sigmoid function
