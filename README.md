@@ -2,7 +2,7 @@
 
 ## Neural network
 
-#### Activation function
+## Activation function
 * sigmoid function
 * tanh function
 * ReLu(rectified linear unit) function
