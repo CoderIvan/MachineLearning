@@ -26,7 +26,7 @@
 * Bias
 * Variance
 
-* [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+> [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 
 ## Learning resource
 
