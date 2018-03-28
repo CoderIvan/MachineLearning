@@ -2,7 +2,12 @@
 
 ## Machine learning tasks
 * Supervised learning
+  * Support Vector Machines
+  * linear regression
+  * logistic regression
+  * Neural Networks
 * Unsupervised learning
+  * k-means
 
 ## Activation function
 * sigmoid function
