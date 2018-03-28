@@ -6,7 +6,8 @@
   * Linear regression
   * Logistic regression
   * Neural Networks (Multilayer perceptron)
-    * Forward propagation
+    * Forwardpropagation
+    * Backpropagation
 * Unsupervised learning
   * K-Means
 
