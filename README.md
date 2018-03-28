@@ -3,8 +3,8 @@
 ## Machine learning tasks
 * Supervised learning
   * Support Vector Machines
-  * linear regression
-  * logistic regression
+  * Linear regression
+  * Logistic regression
   * Neural Networks
 * Unsupervised learning
   * k-means
