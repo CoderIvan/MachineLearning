@@ -3,7 +3,7 @@
 ## 学习资源
 
 * Coursera
- * [机器学习 - Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
+  * [机器学习 - Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 * 网易云课堂
   * [神经网络和深度学习](https://mooc.study.163.com/learn/2001281002?tid=2001392029)
