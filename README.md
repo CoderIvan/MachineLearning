@@ -22,10 +22,7 @@
 * Cross validation set
 * Test set
 
-## Analyze
-* Bias
-* Variance
-
+## Bias-Variance Tradeoff
 > [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 
 ## Learning resource
