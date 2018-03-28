@@ -9,7 +9,7 @@
 * leaky ReLu function
 
 
-## 学习资源
+## Learning resource
 
 * Coursera
   * [机器学习 - Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
