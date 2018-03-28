@@ -8,7 +8,7 @@
 ## Activation function
 * sigmoid function
 * tanh function
-* ReLu(rectified linear unit) function
+* ReLu function
 * leaky ReLu function
 
 
