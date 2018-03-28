@@ -17,6 +17,10 @@
 * ReLu function
 * leaky ReLu function
 
+## DataSet
+* Training set
+* Cross validation set
+* Test set
 
 ## Learning resource
 
