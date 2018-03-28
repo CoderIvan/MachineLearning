@@ -1,5 +1,14 @@
 # Machine Learning
 
+## Neural network
+
+#### Activation function
+* sigmoid function
+* tanh function
+* ReLu(rectified linear unit) function
+* leaky ReLu function
+
+
 ## 学习资源
 
 * Coursera
