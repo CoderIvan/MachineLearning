@@ -7,7 +7,7 @@
   * Logistic regression
   * Neural Networks (Multilayer perceptron)
 * Unsupervised learning
-  * k-means
+  * K-Means
 
 ## Activation function
 * sigmoid function
