@@ -22,6 +22,10 @@
 * Cross validation set
 * Test set
 
+## Analyze
+* Bias
+* Variance
+
 ## Learning resource
 
 * Coursera
