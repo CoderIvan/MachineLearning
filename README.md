@@ -5,7 +5,7 @@
   * Support Vector Machines
   * Linear regression
   * Logistic regression
-  * Neural Networks
+  * Neural Networks (Multilayer perceptron)
 * Unsupervised learning
   * k-means
 
