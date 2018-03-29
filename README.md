@@ -22,7 +22,7 @@
 * Cross validation set
 * Test set
 
-## Regularization parameter
+## Regularization method
 * L1
 * L2
 * Dropout (Neural Networks)
