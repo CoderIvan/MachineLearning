@@ -22,6 +22,10 @@
 * Cross validation set
 * Test set
 
+## Regularization parameter
+* L1
+* L2
+
 ## Bias-Variance Tradeoff
 > [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 
