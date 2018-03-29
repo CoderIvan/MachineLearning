@@ -25,6 +25,7 @@
 ## Regularization parameter
 * L1
 * L2
+* Dropout (Neural Networks)
 
 ## Bias-Variance Tradeoff
 > [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
