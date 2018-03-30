@@ -30,6 +30,11 @@
 ## Bias-Variance Tradeoff
 > [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 
+## Gradient descent
+* mini-batch gradient descent
+* batch gradient descent
+* stochastic gradient descent
+
 ## Learning resource
 
 * Coursera
