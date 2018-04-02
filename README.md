@@ -35,6 +35,10 @@
 * batch gradient descent
 * stochastic gradient descent
 
+## Others
+
+* Exponentially Weighted Moving Average
+
 ## Learning resource
 
 * Coursera
