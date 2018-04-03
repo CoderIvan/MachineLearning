@@ -37,6 +37,7 @@
 
 ## Damping out the oscillations in gradient descent
 * Momentum
+* RMSProp
 
 ## Others
 
