@@ -35,10 +35,12 @@
 * batch gradient descent
 * stochastic gradient descent
 
+## Damping out the oscillations in gradient descent
+* Momentum
+
 ## Others
 
 * Exponentially Weighted Moving Average
-* Gradient descent with momentum
 
 ## Learning resource
 
