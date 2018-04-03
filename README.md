@@ -10,6 +10,10 @@
     * Backward propagation
 * Unsupervised learning
   * K-Means
+  
+## Core function
+* Hypothesis function
+* Crost function
 
 ## Activation function
 * sigmoid function
