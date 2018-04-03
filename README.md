@@ -38,6 +38,7 @@
 ## Others
 
 * Exponentially Weighted Moving Average
+* Gradient descent with momentum
 
 ## Learning resource
 
