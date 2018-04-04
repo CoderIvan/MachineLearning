@@ -10,6 +10,10 @@
     * Backward propagation
 * Unsupervised learning
   * K-Means
+  
+## Core function
+* Hypothesis function
+* Crost function
 
 ## Activation function
 * sigmoid function
@@ -29,6 +33,21 @@
 
 ## Bias-Variance Tradeoff
 > [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+
+## Gradient descent
+* mini-batch gradient descent
+* batch gradient descent
+* stochastic gradient descent
+
+## Damping out the oscillations in gradient descent
+> [深度学习最全优化方法总结比较（SGD，Adagrad，Adadelta，Adam，Adamax，Nadam）](https://zhuanlan.zhihu.com/p/22252270)
+* Momentum
+* RMSProp
+* Adam
+
+## Others
+
+* Exponentially Weighted Moving Average
 
 ## Learning resource
 
