@@ -48,6 +48,7 @@
 ## Others
 
 * Exponentially Weighted Moving Average
+* SoftMax
 
 ## Learning resource
 
