@@ -40,15 +40,16 @@
 * stochastic gradient descent
 
 ## Damping out the oscillations in gradient descent
-> [深度学习最全优化方法总结比较（SGD，Adagrad，Adadelta，Adam，Adamax，Nadam）](https://zhuanlan.zhihu.com/p/22252270)
 * Momentum
 * RMSProp
 * Adam
+> [深度学习最全优化方法总结比较（SGD，Adagrad，Adadelta，Adam，Adamax，Nadam）](https://zhuanlan.zhihu.com/p/22252270)
 
 ## Others
 
 * Exponentially Weighted Moving Average
 * SoftMax
+> [In softmax classifier, why use exp function to do normalization?](https://datascience.stackexchange.com/questions/23159/in-softmax-classifier-why-use-exp-function-to-do-normalization?rq=1)
 
 ## Learning resource
 
